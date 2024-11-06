@@ -28,7 +28,7 @@
     },
     "require": {
         "vlucas/phpdotenv": "^2.5",
-        "twig/twig": "^2.0",
+        "twig/twig": "^3.11",
         "razorpay/razorpay": "^2.5"
     }
 }
